@@ -1,40 +1,35 @@
-```html
-<div align="center">
-
 # 🦋 Yalda Ahmadian 🪼
+
+<div align="center">
 
 ### Python Developer | AI Engineering Student
 
 </div>
 
-<hr>
+---
 
-<h2>🪼 About Me</h2>
+## 🪼 About Me
 
-<p>
-Hi there 👋<br><br>
+Hi there 👋
 
-I'm <b>Yalda Ahmadian</b>, a passionate Python developer and AI engineering student who enjoys building clean, efficient, and meaningful projects.<br><br>
+I'm **Yalda Ahmadian**, a passionate Python developer and AI engineering student who enjoys building clean, efficient, and meaningful projects.
 
 I’m deeply interested in backend development, artificial intelligence, and data-driven technologies.
 I believe growth comes from consistency, creativity, and continuous learning.
-</p>
 
-<ul>
-<li>⚡ FastAPI</li>
-<li>🌐 Django</li>
-<li>🗄️ Backend Development</li>
-<li>📊 Data Mining</li>
-<li>🤖 Artificial Intelligence</li>
-</ul>
+### Currently Learning
 
-<p>
+* ⚡ FastAPI
+* 🌐 Django
+* 🗄️ Backend Development
+* 📊 Data Mining
+* 🤖 Artificial Intelligence
+
 My goal is to become a skilled AI Engineer and contribute to innovative technologies that make an impact.
-</p>
 
-<hr>
+---
 
-<h1 align="center">💻 Tech Stack</h1>
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -42,9 +37,9 @@ My goal is to become a skilled AI Engineer and contribute to innovative technolo
 
 </div>
 
-<hr>
+---
 
-<h1 align="center">📈 GitHub Stats</h1>
+# 📈 GitHub Stats
 
 <div align="center">
 
@@ -54,9 +49,9 @@ My goal is to become a skilled AI Engineer and contribute to innovative technolo
 
 </div>
 
-<hr>
+---
 
-<h1 align="center">🔥 GitHub Streak</h1>
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -64,31 +59,19 @@ My goal is to become a skilled AI Engineer and contribute to innovative technolo
 
 </div>
 
-<hr>
+---
 
-<h1 align="center">🐍 Contribution Snake</h1>
-
-<div align="center">
-
-<img src="https://github.com/YaldaAhmadian/YaldaAhmadian/blob/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
-<hr>
-
-<h1 align="center">📡 Coding Activity</h1>
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="https://wakatime.com/">
-<img src="https://wakatime.com/badge/user/YOUR-ID.svg"/>
-</a>
+![snake gif](https://github.com/YaldaAhmadian/YaldaAhmadian/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<hr>
+---
 
-<h1 align="center">🌐 Connect With Me</h1>
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -110,11 +93,10 @@ My goal is to become a skilled AI Engineer and contribute to innovative technolo
 
 </div>
 
-<hr>
+---
 
 <div align="center">
 
-<h3>🦋 Stay curious, stay consistent, and never stop learning. 🪼</h3>
+### 🦋 Stay curious, stay consistent, and never stop learning. 🪼
 
 </div>
-```
