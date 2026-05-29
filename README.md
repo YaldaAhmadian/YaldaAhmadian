@@ -1,64 +1,82 @@
-# <div align="center">🦋 Yalda Ahmadian</div>
-
 <div align="center">
 
-### Python Developer • AI Engineering Student
+# 🦋 Yalda Ahmadian
 
-</div>
-
----
-
-## 🪼 About Me
-
-* 🤖 Passionate about Artificial Intelligence & Backend Development
-* ⚡ Currently learning FastAPI, Django, and Data Mining
-* 🧠 Creative, hardworking, and always learning
-* 🚀 Future AI Engineer
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,fastapi,django,vscode,pycharm" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=YaldaAhmadian&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=70&lines=Python+Developer;AI+Engineering+Student;Backend+Developer;Building+Cool+Things+with+Python" />
 
 <br>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaldaAhmadian&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,git,vscode,pycharm" />
 
 </div>
 
 ---
+
+<div align="center">
+
+## 🪼 About Me
+
+</div>
+
+```python id="g6ok2u"
+class YaldaAhmadian:
+
+    def __init__(self):
+        self.role = "Python Developer"
+        self.goal = "Future AI Engineer"
+
+        self.learning = [
+            "FastAPI",
+            "Django",
+            "Backend Development",
+            "Data Mining",
+            "Artificial Intelligence"
+        ]
+
+        self.traits = [
+            "Creative",
+            "Hardworking",
+            "Consistent",
+            "Always Learning"
+        ]
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YaldaAhmadian&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:7AA2F7&height=2"/>
+
+</div>
+
+<div align="center">
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<br>
 
 <a href="mailto:yldshhan77@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-181825?style=for-the-badge&logo=gmail&logoColor=red"/>
+<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://www.instagram.com/lunylda">
-<img src="https://img.shields.io/badge/Instagram-181825?style=for-the-badge&logo=instagram&logoColor=pink"/>
+<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=FF69B4"/>
 </a>
 
 <a href="https://t.me/Notoriousyv">
-<img src="https://img.shields.io/badge/Telegram-181825?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/>
+<img src="https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/>
 </a>
 
 <a href="https://vt.tiktok.com/ZSmLEfYx6/">
-<img src="https://img.shields.io/badge/TikTok-181825?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TikTok-0F172A?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 </div>
@@ -67,6 +85,6 @@
 
 <div align="center">
 
-### 🦋 Stay curious. Keep building. 🪼
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BA68C8&height=120&section=footer"/>
 
 </div>
